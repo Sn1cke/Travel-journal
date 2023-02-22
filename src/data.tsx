@@ -7,7 +7,7 @@ export default [
     startDate: "22 Jun, 2019",
     endDate: "30 Jun, 2019",
     description:
-      "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality. It is a 15-kilometre-long branch off the Sunnylvsfjorden.",
+      "The Königssee is a natural lake in the southeast Berchtesgadener Land district of the German state of Bavaria, near the Austrian border. Most of the lake is within the Berchtesgaden National Park.",
     imageUrl:
       "https://images.unsplash.com/photo-1672606853233-8beef07fe711?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
   },
