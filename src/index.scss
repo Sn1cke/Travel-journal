@@ -4,10 +4,12 @@
   font-family: "Poppins", sans-serif;
 }
 
-#root {
+body {
   background-color: #e5e5e5;
-  height: 100vh;
-  padding: 40px;
+}
+
+#root {
+  padding: 60px;
 }
 
 .wrapper {
