@@ -18,7 +18,7 @@ export default [
     startDate: "01 Jan, 2021",
     endDate: "14 Jan, 2021",
     description:
-      "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th-century architecture.",
+      "The Sydney Opera House is a multi-venue performing arts centre located at Sydney Harbour. It is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th-century architecture.",
     imageUrl:
       "https://images.unsplash.com/photo-1540448051910-09cfadd5df61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
   },
